@@ -1459,9 +1459,9 @@ module.exports = throttle;
 
 // Exports
 module.exports = {
-	"style": {"fontFamily":"'__Inter_0ec1f4', '__Inter_Fallback_0ec1f4'","fontStyle":"normal"},
-	"className": "__className_0ec1f4",
-	"variable": "__variable_0ec1f4"
+	"style": {"fontFamily":"'__Inter_55a3d5', '__Inter_Fallback_55a3d5'","fontStyle":"normal"},
+	"className": "__className_55a3d5",
+	"variable": "__variable_55a3d5"
 };
 
 
@@ -1483,7 +1483,7 @@ Object.defineProperty(exports, "addBasePath", ({
 }));
 const _addpathprefix = __webpack_require__(1751);
 const _normalizetrailingslash = __webpack_require__(6089);
-const basePath =  false || "";
+const basePath = "/temp_site" || 0;
 function addBasePath(path, required) {
     if (false) {}
     return (0, _normalizetrailingslash.normalizePathTrailingSlash)((0, _addpathprefix.addPathPrefix)(path, basePath));
@@ -5888,7 +5888,7 @@ Object.defineProperty(exports, "getDomainLocale", ({
         return getDomainLocale;
     }
 }));
-const basePath = (/* unused pure expression or super */ null && ( false || ""));
+const basePath = (/* unused pure expression or super */ null && ("/temp_site" || 0));
 function getDomainLocale(path, locale, locales, domainLocales) {
     if (false) {} else {
         return false;
@@ -5928,7 +5928,7 @@ const _imageconfig = __webpack_require__(5843);
 const _imageconfigcontext = __webpack_require__(744);
 const _warnonce = __webpack_require__(618);
 const _imageloader = /*#__PURE__*/ _interop_require_default._(__webpack_require__(9552));
-const configEnv = {"deviceSizes":[640,750,828,1080,1200,1920,2048,3840],"imageSizes":[16,32,48,64,96,128,256,384],"path":"/_next/image","loader":"default","dangerouslyAllowSVG":false,"unoptimized":false};
+const configEnv = {"deviceSizes":[640,750,828,1080,1200,1920,2048,3840],"imageSizes":[16,32,48,64,96,128,256,384],"path":"/temp_site/_next/image","loader":"default","dangerouslyAllowSVG":false,"unoptimized":false};
 const allImgs = new Map();
 let perfObserver;
 if (true) {

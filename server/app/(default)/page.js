@@ -228,7 +228,7 @@ module.exports = require("next/dist/shared/lib/utils/warn-once.js");
 
 /***/ }),
 
-/***/ 2009:
+/***/ 2313:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -356,13 +356,13 @@ Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_re
 
 /***/ }),
 
-/***/ 5169:
+/***/ 3242:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 125, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 6249, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 9775, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 1522, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 9775, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 3100, 23))
 
 /***/ }),
@@ -510,9 +510,9 @@ var transition = __webpack_require__(6235);
 var next_image = __webpack_require__(8421);
 var image_default = /*#__PURE__*/__webpack_require__.n(next_image);
 ;// CONCATENATED MODULE: ./public/images/features-bg.png
-/* harmony default export */ const features_bg = ({"src":"/_next/static/media/features-bg.35306e3e.png","height":924,"width":1000,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAYAAAA1WQxeAAAAzklEQVR42l2MPYrCUACEp0hS7rIYzXvxJbvEQBLYA8StwhZ22gr+QFKIpaWKqFiKhbcQtNQjiKdKYIyCjQMfzEzxIQxDep5H266z2fxjHMdUSj2RUhJBEDCKIvpBg86PQyEkHUfRdd2yC8KqWZRK8Asf1ADWRIWmWaWu66XVJuqNMP8E8v/tIe/sr8V0Mi5m80WRJElhGEYOu1RVAf4O+xxtdhx2u+wPBsyyjJqmEcKyTt++fwJw7LVb59V6fVstl7c0TS+PD+8hWSkxX/sOVOJOO1kcgZwAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":7});
+/* harmony default export */ const features_bg = ({"src":"/temp_site/_next/static/media/features-bg.35306e3e.png","height":924,"width":1000,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAYAAAA1WQxeAAAAzklEQVR42l2MPYrCUACEp0hS7rIYzXvxJbvEQBLYA8StwhZ22gr+QFKIpaWKqFiKhbcQtNQjiKdKYIyCjQMfzEzxIQxDep5H266z2fxjHMdUSj2RUhJBEDCKIvpBg86PQyEkHUfRdd2yC8KqWZRK8Asf1ADWRIWmWaWu66XVJuqNMP8E8v/tIe/sr8V0Mi5m80WRJElhGEYOu1RVAf4O+xxtdhx2u+wPBsyyjJqmEcKyTt++fwJw7LVb59V6fVstl7c0TS+PD+8hWSkxX/sOVOJOO1kcgZwAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":7});
 ;// CONCATENATED MODULE: ./public/images/features-element.png
-/* harmony default export */ const features_element = ({"src":"/_next/static/media/features-element.1a5bcb68.png","height":88,"width":1000,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAABCAYAAADjAO9DAAAAK0lEQVR4nGP8/OH9zm9fvrrxiYj8+/f3LxMjI+N/NnYOxl+/GT5wsjNoAQA1Fw8XPnJ4yQAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":1});
+/* harmony default export */ const features_element = ({"src":"/temp_site/_next/static/media/features-element.1a5bcb68.png","height":88,"width":1000,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAABCAYAAADjAO9DAAAAK0lEQVR4nGP8/OH9zm9fvrrxiYj8+/f3LxMjI+N/NnYOxl+/GT5wsjNoAQA1Fw8XPnJ4yQAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":1});
 ;// CONCATENATED MODULE: ./components/features.tsx
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
@@ -1179,7 +1179,7 @@ __webpack_require__.d(__webpack_exports__, {
 // EXTERNAL MODULE: external "next/dist/compiled/react/jsx-runtime"
 var jsx_runtime_ = __webpack_require__(6786);
 ;// CONCATENATED MODULE: ./public/images/hero-image.png
-/* harmony default export */ const hero_image = ({"src":"/_next/static/media/hero-image.aff77a9d.png","height":864,"width":1536,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAe0lEQVR42mMQFBRkYGAQERWXkZGRlpYGsrm4uIBsBmNjEx8fbysLIzExcQEBgcWLF7u6ujIAgbqaqp29s7VDsLiYkKioWHV1tbm5uZiYGIMwPwOHlK2M+xQJYQZpGQWgUqA5mpqaDJKSUtLSErJSjBA7VFVVpaSkREVFATLZEOqsDxekAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":5});
+/* harmony default export */ const hero_image = ({"src":"/temp_site/_next/static/media/hero-image.aff77a9d.png","height":864,"width":1536,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAe0lEQVR42mMQFBRkYGAQERWXkZGRlpYGsrm4uIBsBmNjEx8fbysLIzExcQEBgcWLF7u6ujIAgbqaqp29s7VDsLiYkKioWHV1tbm5uZiYGIMwPwOHlK2M+xQJYQZpGQWgUqA5mpqaDJKSUtLSErJSjBA7VFVVpaSkREVFATLZEOqsDxekAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":5});
 // EXTERNAL MODULE: ./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js
 var module_proxy = __webpack_require__(1313);
 ;// CONCATENATED MODULE: ./components/modal-video.tsx
@@ -1942,7 +1942,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"src":"/_next/static/media/hero-image.aff77a9d.png","height":864,"width":1536,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAe0lEQVR42mMQFBRkYGAQERWXkZGRlpYGsrm4uIBsBmNjEx8fbysLIzExcQEBgcWLF7u6ujIAgbqaqp29s7VDsLiYkKioWHV1tbm5uZiYGIMwPwOHlK2M+xQJYQZpGQWgUqA5mpqaDJKSUtLSErJSjBA7VFVVpaSkREVFATLZEOqsDxekAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":5});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"src":"/temp_site/_next/static/media/hero-image.aff77a9d.png","height":864,"width":1536,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAe0lEQVR42mMQFBRkYGAQERWXkZGRlpYGsrm4uIBsBmNjEx8fbysLIzExcQEBgcWLF7u6ujIAgbqaqp29s7VDsLiYkKioWHV1tbm5uZiYGIMwPwOHlK2M+xQJYQZpGQWgUqA5mpqaDJKSUtLSErJSjBA7VFVVpaSkREVFATLZEOqsDxekAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":5});
 
 /***/ }),
 
@@ -1960,7 +1960,7 @@ __webpack_require__.r(__webpack_exports__);
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [624], () => (__webpack_exec__(2009)));
+var __webpack_exports__ = __webpack_require__.X(0, [624], () => (__webpack_exec__(2313)));
 module.exports = __webpack_exports__;
 
 })();
